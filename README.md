@@ -2,5 +2,4 @@
 
 JavaScript Practice
 
-Text css transform using Buttons
-Remove css too.
+Text css transform using Buttons, Remove css too.
